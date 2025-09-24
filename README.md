@@ -163,7 +163,7 @@ Execute the program using runserver command.
         <tr>
             <td>2</td>
             <td>19EN101</td>
-            <td>Commutative English</td>
+            <td>English</td>
         </tr>
         <tr>
             <td>3</td>
